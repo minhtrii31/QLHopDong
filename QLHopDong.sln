@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLHopDong", "QLHopDong\QLHopDong.csproj", "{875FB58B-13BB-42DA-9FCE-228AAF130CE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{875FB58B-13BB-42DA-9FCE-228AAF130CE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{875FB58B-13BB-42DA-9FCE-228AAF130CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{875FB58B-13BB-42DA-9FCE-228AAF130CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{875FB58B-13BB-42DA-9FCE-228AAF130CE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCEFA8E8-3D30-44AD-AD45-BE6B3926C4CD}
+	EndGlobalSection
+EndGlobal

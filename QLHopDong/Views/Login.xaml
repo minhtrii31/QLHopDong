@@ -1,0 +1,56 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:prism="http://prismlibrary.com/"
+        xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml" xmlns:av="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="av" x:Class="QLHopDong.Views.Login"
+        x:Name="LoginPage"
+        prism:ViewModelLocator.AutoWireViewModel="True"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        WindowStartupLocation="CenterScreen"
+        Background="Transparent"
+        Title="{Binding Title}" Height="500" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="1.5*"/>
+        </Grid.ColumnDefinitions>
+
+        <Image Source="/Assets/Images/close.png" Grid.Column="1" Panel.ZIndex="1" Width="36" Height="36" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="0 13 13 0"/>
+
+        <Border CornerRadius="10 0 0 10">
+            <Border.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                    <GradientStop Color="#74EBD5" Offset="0"/>
+                    <GradientStop Color="#9FACE6" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+
+            <Grid>
+                <Canvas>
+                    <Polygon Points="0, 20 230, 140 0,270" Fill="#56d7ca"/>
+                    <Polygon Points="100,400 200, 370 180,470" Fill="#56d7ca" Canvas.Left="-99" Canvas.Top="29"/>
+                    <Ellipse Width="40" Height="40" Fill="#56d7ca" Canvas.Left="250" Canvas.Top="432" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                    <Ellipse Width="20" Height="20" Fill="#56d7ca" Canvas.Left="260" Canvas.Top="399" RenderTransformOrigin="-0.48,0.62" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                    <TextBlock Text="LOGO" Foreground="#fff" FontSize="48" FontWeight="Bold" Canvas.Left="99" Canvas.Top="113" HorizontalAlignment="Center" VerticalAlignment="Top" />
+                    <TextBlock Text="PHẦM MỀM QUẢN LÝ HỢP ĐỒNG" Foreground="#fff" FontWeight="Bold" FontSize="18" Canvas.Left="17" Canvas.Top="188" HorizontalAlignment="Center" VerticalAlignment="Top" />
+                    <TextBlock Text="Công ty ABC Company" Foreground="#fff" FontWeight="Bold" Canvas.Left="97" Canvas.Top="226" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                    <TextBlock Text="Copyright 2024 - ABC Company©" Foreground="#fff" Canvas.Left="129" Canvas.Top="474"/>
+                </Canvas>
+            </Grid>
+        </Border>
+
+        <Border Background="#fafafb" Grid.Column="1" CornerRadius="0 10 10 0">
+            <StackPanel VerticalAlignment="Center" Margin="60">
+                <TextBlock Text="ĐĂNG NHẬP" FontWeight="Bold" FontSize="36" TextAlignment="Center" Padding="10"/>
+                <TextBlock Text="Tên đăng nhập" Padding="5" FontSize="16"/>
+                <ui:TextBox PlaceholderText="Vui lòng nhập tên tài khoản..." TextWrapping="Wrap" Padding="10" FontSize="16" Margin="5 0"/>
+                <TextBlock Text="Mật khẩu" Padding="5" FontSize="16"/>
+                <ui:TextBox PlaceholderText="Vui lòng nhập mật khẩu..." TextWrapping="Wrap" Padding="10" FontSize="16" Margin="5 0" />
+                <Border CornerRadius="5" Margin="0 20">
+                    <ui:Button Content="ĐĂNG NHẬP" FontSize="16" Width="170" Background="Transparent" Padding="10"/>
+                </Border>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>
