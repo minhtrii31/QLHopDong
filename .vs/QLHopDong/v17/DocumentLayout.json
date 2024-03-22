@@ -3,32 +3,84 @@
   "WorkspaceRootPath": "D:\\Intern\\QLHopDong\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|d:\\intern\\qlhopdong\\qlhopdong\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|solutionrelative:qlhopdong\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|d:\\intern\\qlhopdong\\qlhopdong\\views\\sidebar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|solutionrelative:qlhopdong\\views\\sidebar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|d:\\intern\\qlhopdong\\qlhopdong\\views\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|solutionrelative:qlhopdong\\views\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|d:\\intern\\qlhopdong\\qlhopdong\\views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|solutionrelative:qlhopdong\\views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|d:\\intern\\qlhopdong\\qlhopdong\\app.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|solutionrelative:qlhopdong\\app.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|d:\\intern\\qlhopdong\\qlhopdong\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|solutionrelative:qlhopdong\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|d:\\intern\\qlhopdong\\qlhopdong\\views\\sidebar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|solutionrelative:qlhopdong\\views\\sidebar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|d:\\intern\\qlhopdong\\qlhopdong\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|solutionrelative:qlhopdong\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|d:\\intern\\qlhopdong\\qlhopdong\\views\\users.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|solutionrelative:qlhopdong\\views\\users.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|d:\\intern\\qlhopdong\\qlhopdong\\viewmodels\\usersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|solutionrelative:qlhopdong\\viewmodels\\usersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|d:\\intern\\qlhopdong\\qlhopdong\\views\\report.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|solutionrelative:qlhopdong\\views\\report.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|d:\\intern\\qlhopdong\\qlhopdong\\viewmodels\\reportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|solutionrelative:qlhopdong\\viewmodels\\reportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|d:\\intern\\qlhopdong\\qlhopdong\\views\\contracttype.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|solutionrelative:qlhopdong\\views\\contracttype.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|d:\\intern\\qlhopdong\\qlhopdong\\views\\contractpageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|solutionrelative:qlhopdong\\views\\contractpageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|d:\\intern\\qlhopdong\\qlhopdong\\viewmodels\\contracttypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|solutionrelative:qlhopdong\\viewmodels\\contracttypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|d:\\intern\\qlhopdong\\qlhopdong\\views\\baseview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|solutionrelative:qlhopdong\\views\\baseview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|d:\\intern\\qlhopdong\\qlhopdong\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|solutionrelative:qlhopdong\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|d:\\intern\\qlhopdong\\qlhopdong\\views\\baseview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|solutionrelative:qlhopdong\\views\\baseview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|d:\\intern\\qlhopdong\\qlhopdong\\views\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|solutionrelative:qlhopdong\\views\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|d:\\intern\\qlhopdong\\qlhopdong\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|solutionrelative:qlhopdong\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|d:\\intern\\qlhopdong\\qlhopdong\\views\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|solutionrelative:qlhopdong\\views\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|d:\\intern\\qlhopdong\\qlhopdong\\views\\contractpageview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|solutionrelative:qlhopdong\\views\\contractpageview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|d:\\intern\\qlhopdong\\qlhopdong\\views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|solutionrelative:qlhopdong\\views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|d:\\intern\\qlhopdong\\qlhopdong\\viewmodels\\sidebarviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|solutionrelative:qlhopdong\\viewmodels\\sidebarviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|d:\\intern\\qlhopdong\\qlhopdong\\app.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{875FB58B-13BB-42DA-9FCE-228AAF130CE2}|QLHopDong\\QLHopDong.csproj|solutionrelative:qlhopdong\\app.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,94 +90,258 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "D:\\Intern\\QLHopDong\\QLHopDong\\ViewModels\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "QLHopDong\\ViewModels\\LoginViewModel.cs",
-              "ToolTip": "D:\\Intern\\QLHopDong\\QLHopDong\\ViewModels\\LoginViewModel.cs",
-              "RelativeToolTip": "QLHopDong\\ViewModels\\LoginViewModel.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAYwBMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T02:38:46.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 19,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\Intern\\QLHopDong\\QLHopDong\\App.xaml",
               "RelativeDocumentMoniker": "QLHopDong\\App.xaml",
               "ToolTip": "D:\\Intern\\QLHopDong\\QLHopDong\\App.xaml",
               "RelativeToolTip": "QLHopDong\\App.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-22T02:32:30.025Z",
+              "WhenOpened": "2024-03-22T03:23:58.951Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\Intern\\QLHopDong\\QLHopDong\\App.xaml",
-              "RelativeDocumentMoniker": "QLHopDong\\App.xaml",
-              "ToolTip": "D:\\Intern\\QLHopDong\\QLHopDong\\App.xaml",
-              "RelativeToolTip": "QLHopDong\\App.xaml",
+              "Title": "UsersViewModel.cs",
+              "DocumentMoniker": "D:\\Intern\\QLHopDong\\QLHopDong\\ViewModels\\UsersViewModel.cs",
+              "RelativeDocumentMoniker": "QLHopDong\\ViewModels\\UsersViewModel.cs",
+              "ToolTip": "D:\\Intern\\QLHopDong\\QLHopDong\\ViewModels\\UsersViewModel.cs",
+              "RelativeToolTip": "QLHopDong\\ViewModels\\UsersViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T04:46:53.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Users.xaml",
+              "DocumentMoniker": "D:\\Intern\\QLHopDong\\QLHopDong\\Views\\Users.xaml",
+              "RelativeDocumentMoniker": "QLHopDong\\Views\\Users.xaml",
+              "ToolTip": "D:\\Intern\\QLHopDong\\QLHopDong\\Views\\Users.xaml",
+              "RelativeToolTip": "QLHopDong\\Views\\Users.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-22T02:32:21.649Z",
+              "WhenOpened": "2024-03-22T04:46:52.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "BaseView.xaml",
-              "DocumentMoniker": "D:\\Intern\\QLHopDong\\QLHopDong\\Views\\BaseView.xaml",
-              "RelativeDocumentMoniker": "QLHopDong\\Views\\BaseView.xaml",
-              "ToolTip": "D:\\Intern\\QLHopDong\\QLHopDong\\Views\\BaseView.xaml",
-              "RelativeToolTip": "QLHopDong\\Views\\BaseView.xaml",
+              "Title": "ReportViewModel.cs",
+              "DocumentMoniker": "D:\\Intern\\QLHopDong\\QLHopDong\\ViewModels\\ReportViewModel.cs",
+              "RelativeDocumentMoniker": "QLHopDong\\ViewModels\\ReportViewModel.cs",
+              "ToolTip": "D:\\Intern\\QLHopDong\\QLHopDong\\ViewModels\\ReportViewModel.cs",
+              "RelativeToolTip": "QLHopDong\\ViewModels\\ReportViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T04:46:25.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Report.xaml",
+              "DocumentMoniker": "D:\\Intern\\QLHopDong\\QLHopDong\\Views\\Report.xaml",
+              "RelativeDocumentMoniker": "QLHopDong\\Views\\Report.xaml",
+              "ToolTip": "D:\\Intern\\QLHopDong\\QLHopDong\\Views\\Report.xaml",
+              "RelativeToolTip": "QLHopDong\\Views\\Report.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-22T02:25:33.493Z",
+              "WhenOpened": "2024-03-22T04:46:24.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContractTypeViewModel.cs",
+              "DocumentMoniker": "D:\\Intern\\QLHopDong\\QLHopDong\\ViewModels\\ContractTypeViewModel.cs",
+              "RelativeDocumentMoniker": "QLHopDong\\ViewModels\\ContractTypeViewModel.cs",
+              "ToolTip": "D:\\Intern\\QLHopDong\\QLHopDong\\ViewModels\\ContractTypeViewModel.cs",
+              "RelativeToolTip": "QLHopDong\\ViewModels\\ContractTypeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T04:45:52.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContractType.xaml",
+              "DocumentMoniker": "D:\\Intern\\QLHopDong\\QLHopDong\\Views\\ContractType.xaml",
+              "RelativeDocumentMoniker": "QLHopDong\\Views\\ContractType.xaml",
+              "ToolTip": "D:\\Intern\\QLHopDong\\QLHopDong\\Views\\ContractType.xaml",
+              "RelativeToolTip": "QLHopDong\\Views\\ContractType.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-22T04:45:51.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SidebarViewModel.cs",
+              "DocumentMoniker": "D:\\Intern\\QLHopDong\\QLHopDong\\ViewModels\\SidebarViewModel.cs",
+              "RelativeDocumentMoniker": "QLHopDong\\ViewModels\\SidebarViewModel.cs",
+              "ToolTip": "D:\\Intern\\QLHopDong\\QLHopDong\\ViewModels\\SidebarViewModel.cs",
+              "RelativeToolTip": "QLHopDong\\ViewModels\\SidebarViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T04:19:47.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sidebar.xaml.cs",
+              "DocumentMoniker": "D:\\Intern\\QLHopDong\\QLHopDong\\Views\\Sidebar.xaml.cs",
+              "RelativeDocumentMoniker": "QLHopDong\\Views\\Sidebar.xaml.cs",
+              "ToolTip": "D:\\Intern\\QLHopDong\\QLHopDong\\Views\\Sidebar.xaml.cs",
+              "RelativeToolTip": "QLHopDong\\Views\\Sidebar.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwC8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T04:25:17.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sidebar.xaml",
+              "DocumentMoniker": "D:\\Intern\\QLHopDong\\QLHopDong\\Views\\Sidebar.xaml",
+              "RelativeDocumentMoniker": "QLHopDong\\Views\\Sidebar.xaml",
+              "ToolTip": "D:\\Intern\\QLHopDong\\QLHopDong\\Views\\Sidebar.xaml",
+              "RelativeToolTip": "QLHopDong\\Views\\Sidebar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-22T04:19:46.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Intern\\QLHopDong\\QLHopDong\\App.xaml.cs",
+              "RelativeDocumentMoniker": "QLHopDong\\App.xaml.cs",
+              "ToolTip": "D:\\Intern\\QLHopDong\\QLHopDong\\App.xaml.cs",
+              "RelativeToolTip": "QLHopDong\\App.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwBgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:08:26.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "D:\\Intern\\QLHopDong\\QLHopDong\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "QLHopDong\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "D:\\Intern\\QLHopDong\\QLHopDong\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "QLHopDong\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T04:42:19.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContractPageView.xaml",
+              "DocumentMoniker": "D:\\Intern\\QLHopDong\\QLHopDong\\Views\\ContractPageView.xaml",
+              "RelativeDocumentMoniker": "QLHopDong\\Views\\ContractPageView.xaml",
+              "ToolTip": "D:\\Intern\\QLHopDong\\QLHopDong\\Views\\ContractPageView.xaml",
+              "RelativeToolTip": "QLHopDong\\Views\\ContractPageView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-22T03:52:52.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Login.xaml",
               "DocumentMoniker": "D:\\Intern\\QLHopDong\\QLHopDong\\Views\\Login.xaml",
               "RelativeDocumentMoniker": "QLHopDong\\Views\\Login.xaml",
               "ToolTip": "D:\\Intern\\QLHopDong\\QLHopDong\\Views\\Login.xaml",
               "RelativeToolTip": "QLHopDong\\Views\\Login.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-22T02:25:25.697Z",
+              "WhenOpened": "2024-03-22T03:39:40.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\Intern\\QLHopDong\\QLHopDong\\App.xaml.cs",
-              "RelativeDocumentMoniker": "QLHopDong\\App.xaml.cs",
-              "ToolTip": "D:\\Intern\\QLHopDong\\QLHopDong\\App.xaml.cs",
-              "RelativeToolTip": "QLHopDong\\App.xaml.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAA8wCMAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T02:22:53.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "Login.xaml.cs",
               "DocumentMoniker": "D:\\Intern\\QLHopDong\\QLHopDong\\Views\\Login.xaml.cs",
               "RelativeDocumentMoniker": "QLHopDong\\Views\\Login.xaml.cs",
               "ToolTip": "D:\\Intern\\QLHopDong\\QLHopDong\\Views\\Login.xaml.cs",
               "RelativeToolTip": "QLHopDong\\Views\\Login.xaml.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAA3wAsAAAAWAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAASwBwAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T02:22:40.905Z",
+              "WhenOpened": "2024-03-22T03:16:53.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseView.xaml.cs",
+              "DocumentMoniker": "D:\\Intern\\QLHopDong\\QLHopDong\\Views\\BaseView.xaml.cs",
+              "RelativeDocumentMoniker": "QLHopDong\\Views\\BaseView.xaml.cs",
+              "ToolTip": "D:\\Intern\\QLHopDong\\QLHopDong\\Views\\BaseView.xaml.cs",
+              "RelativeToolTip": "QLHopDong\\Views\\BaseView.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:13:11.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseView.xaml",
+              "DocumentMoniker": "D:\\Intern\\QLHopDong\\QLHopDong\\Views\\BaseView.xaml",
+              "RelativeDocumentMoniker": "QLHopDong\\Views\\BaseView.xaml",
+              "ToolTip": "D:\\Intern\\QLHopDong\\QLHopDong\\Views\\BaseView.xaml",
+              "RelativeToolTip": "QLHopDong\\Views\\BaseView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-22T03:07:35.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Home.xaml",
+              "DocumentMoniker": "D:\\Intern\\QLHopDong\\QLHopDong\\Views\\Home.xaml",
+              "RelativeDocumentMoniker": "QLHopDong\\Views\\Home.xaml",
+              "ToolTip": "D:\\Intern\\QLHopDong\\QLHopDong\\Views\\Home.xaml",
+              "RelativeToolTip": "QLHopDong\\Views\\Home.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-22T04:35:45.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "D:\\Intern\\QLHopDong\\QLHopDong\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "QLHopDong\\ViewModels\\HomeViewModel.cs",
+              "ToolTip": "D:\\Intern\\QLHopDong\\QLHopDong\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "QLHopDong\\ViewModels\\HomeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T04:35:45.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ContractPageView.xaml.cs",
+              "DocumentMoniker": "D:\\Intern\\QLHopDong\\QLHopDong\\Views\\ContractPageView.xaml.cs",
+              "RelativeDocumentMoniker": "QLHopDong\\Views\\ContractPageView.xaml.cs",
+              "ToolTip": "D:\\Intern\\QLHopDong\\QLHopDong\\Views\\ContractPageView.xaml.cs",
+              "RelativeToolTip": "QLHopDong\\Views\\ContractPageView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T04:29:52.228Z",
               "EditorCaption": ""
             }
           ]

@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 D:\Intern\QLHopDong\QLHopDong\App.xaml
-3-1256948200
+8-1554008836
 2-542968694
-13-863045770
+232131786376
 2441370130529
-Views\BaseView.xaml;Views\ContractPageView.xaml;Views\Login.xaml;
+Views\BaseView.xaml;Views\ContractPageView.xaml;Views\ContractType.xaml;Views\Home.xaml;Views\Login.xaml;Views\Report.xaml;Views\Sidebar.xaml;Views\Users.xaml;
 
 False
 

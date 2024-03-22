@@ -48,7 +48,7 @@
                 <ui:TextBox x:Name="tbUsername" TabIndex="0" Style="{StaticResource input}"/>
                 <TextBlock Text="Mật khẩu" Padding="5 10" FontSize="16"/>
                 <ui:PasswordBox PlaceholderText="Password..." TabIndex="1" Style="{StaticResource input}"/>
-                <ui:Button Content="ĐĂNG NHẬP" TabIndex="2" Style="{StaticResource roundedButton}" MouseDown="Button_Login"/>
+                <ui:Button Content="ĐĂNG NHẬP" TabIndex="2" Style="{StaticResource roundedButton}" Click="Button_Login"/>
             </StackPanel>
         </Border>
     </Grid>

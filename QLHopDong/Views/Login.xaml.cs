@@ -1,4 +1,5 @@
-﻿using System.Windows;
+﻿using Prism.Regions;
+using System.Windows;
 using System.Windows.Media;
 using Wpf.Ui.Controls;
 
@@ -13,7 +14,6 @@ namespace QLHopDong.Views
         {
             InitializeComponent();
         }
-
         private void ButtonClose_Click(object sender, RoutedEventArgs e)
         {
             this.Close();
@@ -26,7 +26,9 @@ namespace QLHopDong.Views
 
         private void Button_Login(object sender, RoutedEventArgs e)
         {
-            
+            BaseView baseView = new BaseView();
+            baseView.Show();
+            this.Close();
         }
     }
 }

@@ -5,67 +5,21 @@
              prism:ViewModelLocator.AutoWireViewModel="True"
              Title="{Binding Title}" Height="780" Width="1280" 
              xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml" xmlns:viewModels="clr-namespace:QLHopDong.ViewModels" WindowStyle="None"
-             WindowStartupLocation="CenterScreen" Background="#fafafb" ResizeMode="NoResize">
+             WindowStartupLocation="CenterScreen" Background="#fcfcfc">
 
-    <Grid>
-        
-        <ui:SymbolIcon Symbol="LineHorizontal120" Grid.Column="1" Panel.ZIndex="1" FontSize="20" Style="{StaticResource iconMinimize}"/>
+    <Border BorderBrush="#ccc" BorderThickness="1">
+        <DockPanel>
+            
+            <ContentControl prism:RegionManager.RegionName="SidebarRegion" DockPanel.Dock="Left"/>
+            <ContentControl prism:RegionManager.RegionName="ContentRegion" Margin="0 40" />
 
-        <ui:SymbolIcon Symbol="Maximize24" Grid.Column="1" Panel.ZIndex="1" MouseUp="ButtonClose_Click" FontSize="20" Style="{StaticResource iconMaximize}"/>
-        
-        <ui:SymbolIcon Symbol="Dismiss24" Grid.Column="1" Panel.ZIndex="1" MouseUp="ButtonClose_Click" FontSize="20" Style="{StaticResource iconClose}"/>
+            <Grid VerticalAlignment="Top" HorizontalAlignment="Right">
+                <ui:SymbolIcon Symbol="LineHorizontal120" Grid.Column="1" Panel.ZIndex="1" FontSize="20" Style="{StaticResource iconMinimize}"/>
 
+                <ui:SymbolIcon Symbol="Maximize24" Grid.Column="1" Panel.ZIndex="1" MouseUp="ButtonClose_Click" FontSize="20" Style="{StaticResource iconMaximize}"/>
 
-        <ui:NavigationView x:Name="RootNavigation" Grid.Row="1" PaneTitle="PHẦN MỀM QUẢN LÝ HỢP ĐỒNG" IsBackButtonVisible="Auto" IsPaneToggleVisible="True" PaneDisplayMode="Left">
-            <ui:NavigationView.AutoSuggestBox>
-                <ui:AutoSuggestBox x:Name="AutoSuggestBox" PlaceholderText="Tìm kiếm">
-                    <ui:AutoSuggestBox.Icon>
-                        <ui:IconSourceElement>
-                            <ui:SymbolIconSource Symbol="Search24" />
-                        </ui:IconSourceElement>
-                    </ui:AutoSuggestBox.Icon>
-                </ui:AutoSuggestBox>
-            </ui:NavigationView.AutoSuggestBox>
-            <ui:NavigationView.Header>
-                <ui:BreadcrumbBar
-                    Margin="50,80,0,0"
-                    FontSize="28"
-                    FontWeight="DemiBold" />
-            </ui:NavigationView.Header>
-            <ui:NavigationView.MenuItems>
-                <ui:NavigationViewItem Content="Trang chính">
-                    <ui:NavigationViewItem.Icon>
-                        <ui:SymbolIcon Symbol="Home24" />
-                    </ui:NavigationViewItem.Icon>
-                </ui:NavigationViewItem>
-                <ui:NavigationViewItem Content="Hợp đồng">
-                    <ui:NavigationViewItem.Icon>
-                        <ui:SymbolIcon Symbol="DataHistogram24" />
-                    </ui:NavigationViewItem.Icon>
-                </ui:NavigationViewItem>
-                <ui:NavigationViewItem Content="Các loại hợp đồng" >
-                    <ui:NavigationViewItem.Icon>
-                        <ui:SymbolIcon Symbol="List24" />
-                    </ui:NavigationViewItem.Icon>
-                </ui:NavigationViewItem>
-                <ui:NavigationViewItem Content="Thống kê" >
-                    <ui:NavigationViewItem.Icon>
-                        <ui:SymbolIcon Symbol="Book24" />
-                    </ui:NavigationViewItem.Icon>
-                </ui:NavigationViewItem>
-                <ui:NavigationViewItem Content="Người dùng" >
-                    <ui:NavigationViewItem.Icon>
-                        <ui:SymbolIcon Symbol="Person24" />
-                    </ui:NavigationViewItem.Icon>
-                </ui:NavigationViewItem>
-            </ui:NavigationView.MenuItems>
-            <ui:NavigationView.FooterMenuItems>
-                <ui:NavigationViewItem Content="Cài đặt" >
-                    <ui:NavigationViewItem.Icon>
-                        <ui:SymbolIcon Symbol="Settings24" />
-                    </ui:NavigationViewItem.Icon>
-                </ui:NavigationViewItem>
-            </ui:NavigationView.FooterMenuItems>
-        </ui:NavigationView>
-    </Grid>
+                <ui:SymbolIcon Symbol="Dismiss24" Grid.Column="1" Panel.ZIndex="1" MouseUp="ButtonClose_Click" FontSize="20" Style="{StaticResource iconClose}"/>
+            </Grid>
+        </DockPanel>
+    </Border>
 </Window>

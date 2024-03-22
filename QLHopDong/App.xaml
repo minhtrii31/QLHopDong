@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:QLHopDong"
              xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
-             xmlns:prism="http://prismlibrary.com/">
+             xmlns:prism="http://prismlibrary.com/" StartupUri="/Views/Login.xaml">
 
     <prism:PrismApplication.Resources>
         <ResourceDictionary>

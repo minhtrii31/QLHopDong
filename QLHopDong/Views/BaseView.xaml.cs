@@ -10,12 +10,10 @@ namespace QLHopDong.Views
     /// </summary>
     public partial class BaseView : Window
     {
-
         public BaseView()
         {
             InitializeComponent();
         }
-
         private void ButtonClose_Click(object sender, RoutedEventArgs e)
         {
             this.Close();
@@ -32,6 +30,6 @@ namespace QLHopDong.Views
                 WindowState = WindowState.Normal;
             }
         }
-
+       
     }
 }
