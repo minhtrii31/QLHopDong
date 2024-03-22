@@ -1,5 +1,6 @@
 ﻿using Prism.Commands;
 using Prism.Mvvm;
+using Prism.Regions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,10 +14,6 @@ namespace QLHopDong.ViewModels
         {
             get { return _title; }
             set { SetProperty(ref _title, value); }
-        }
-        public BaseViewModel()
-        {
-
         }
     }
 }

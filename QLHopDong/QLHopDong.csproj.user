@@ -10,12 +10,18 @@
     <Compile Update="Views\BaseView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Views\ContractPageView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Views\Login.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="Views\BaseView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ContractPageView.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Views\Login.xaml">

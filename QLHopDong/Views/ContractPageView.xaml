@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="QLHopDong.Views.ContractPageView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:prism="http://prismlibrary.com/"
+             prism:ViewModelLocator.AutoWireViewModel="True"
+             xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
+             xmlns:viewModels="clr-namespace:QLHopDong.ViewModels">
+
+    <UserControl.DataContext>
+        <viewModels:ContractPageViewModel />
+    </UserControl.DataContext>
+
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="Contract Page" FontSize="24" FontWeight="Bold" Margin="10"/>
+        </StackPanel>
+    </Grid>
+</UserControl>
