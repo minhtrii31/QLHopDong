@@ -1,35 +1,19 @@
-﻿using Prism.Commands;
-using Prism.Regions;
-using System.Windows;
-using Wpf.Ui.Controls;
+﻿using System.Windows;
+using System.Windows.Input;
 
 namespace QLHopDong.Views
 {
-    /// <summary>
-    /// Interaction logic for BaseView.xaml
-    /// </summary>
     public partial class BaseView : Window
     {
         public BaseView()
         {
             InitializeComponent();
-        }
-        private void ButtonClose_Click(object sender, RoutedEventArgs e)
-        {
-            this.Close();
+            this.Loaded += BaseView_Loaded;
         }
 
-        private void ButtonMaximize_Click(object sender, RoutedEventArgs e)
+        private void BaseView_Loaded(object sender, RoutedEventArgs e)
         {
-            if (WindowState == WindowState.Normal)
-            {
-                WindowState = WindowState.Maximized;
-            }
-            else
-            {
-                WindowState = WindowState.Normal;
-            }
+            this.Hide();
         }
-       
     }
 }

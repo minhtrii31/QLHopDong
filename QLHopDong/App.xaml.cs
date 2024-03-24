@@ -18,7 +18,6 @@ namespace QLHopDong
         {
             return Container.Resolve<BaseView>();
         }
-
         protected override void RegisterTypes(IContainerRegistry containerRegistry)
         {
             containerRegistry.RegisterForNavigation<Login, LoginViewModel>();
@@ -35,6 +34,7 @@ namespace QLHopDong
             var region = ContainerLocator.Container.Resolve<IRegionManager>();
             region.RegisterViewWithRegion<Sidebar>("SidebarRegion");
             region.RegisterViewWithRegion<Home>("ContentRegion");
+
         }
     }
 }

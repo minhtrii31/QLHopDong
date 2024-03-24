@@ -26,9 +26,16 @@ namespace QLHopDong.Views
 
         private void Button_Login(object sender, RoutedEventArgs e)
         {
-            BaseView baseView = new BaseView();
-            baseView.Show();
             this.Close();
+
+            foreach (Window window in Application.Current.Windows)
+            {
+                if (window is BaseView)
+                {
+                    window.Show();
+                    break;
+                }
+            }
         }
     }
 }
