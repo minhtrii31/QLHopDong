@@ -59,7 +59,7 @@ namespace QLHopDong.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/QLHopDong;component/views/report.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/QLHopDong;V1.0.0.0;component/views/report.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\Report.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

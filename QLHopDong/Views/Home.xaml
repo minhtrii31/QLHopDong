@@ -4,8 +4,8 @@
              xmlns:prism="http://prismlibrary.com/"             
              prism:ViewModelLocator.AutoWireViewModel="True">
     <Grid>
-        <StackPanel>
-            <TextBlock Text="Home page" FontSize="24" FontWeight="Bold" Margin="10"/>
+        <StackPanel VerticalAlignment="Top" Margin="20 10">
+            <TextBlock Text="Home page" FontSize="24" FontWeight="Bold"/>
         </StackPanel>
     </Grid>
 </UserControl>

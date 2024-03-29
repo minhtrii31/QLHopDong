@@ -8,9 +8,6 @@ namespace QLHopDong.ViewModels
 {
 	public class ContractPageViewModel : BindableBase
 	{
-        public ContractPageViewModel()
-        {
-
-        }
-	}
+        
+    }
 }

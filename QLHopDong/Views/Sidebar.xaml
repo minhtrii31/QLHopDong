@@ -5,7 +5,7 @@
              prism:ViewModelLocator.AutoWireViewModel="True">
     <ui:NavigationView x:Name="RootNavigation" Grid.Column="1" PaneTitle="PHẦN MỀM QUẢN LÝ HỢP ĐỒNG" IsBackButtonVisible="Auto" IsPaneToggleVisible="True" PaneDisplayMode="Left">
         <ui:NavigationView.AutoSuggestBox>
-            <ui:AutoSuggestBox x:Name="AutoSuggestBox" PlaceholderText="Tìm kiếm">
+            <ui:AutoSuggestBox x:Name="AutoSuggestBox" PlaceholderText="Tìm kiếm" Margin="10 0">
                 <ui:AutoSuggestBox.Icon>
                     <ui:IconSourceElement>
                         <ui:SymbolIconSource Symbol="Search24" />
@@ -15,41 +15,41 @@
         </ui:NavigationView.AutoSuggestBox>
         <ui:NavigationView.Header>
             <ui:BreadcrumbBar
-Margin="50,80,0,0"
+Margin="0,50,0,0"
 FontSize="28"
 FontWeight="DemiBold" />
         </ui:NavigationView.Header>
         <ui:NavigationView.MenuItems>
-            <ui:NavigationViewItem Content="Trang chính" Click="NavigationViewItem_Selected">
+            <ui:NavigationViewItem Content="Trang chính" Click="NavigationViewItem_Selected" FontSize="20">
                 <ui:NavigationViewItem.Icon>
-                    <ui:SymbolIcon Symbol="Home24" />
+                    <ui:SymbolIcon Symbol="Home24"  FontSize="20"/>
                 </ui:NavigationViewItem.Icon>
             </ui:NavigationViewItem>
-            <ui:NavigationViewItem Content="Hợp đồng" Click="NavigationViewItem_Selected">
+            <ui:NavigationViewItem Content="Hợp đồng" Click="NavigationViewItem_Selected" FontSize="20">
                 <ui:NavigationViewItem.Icon>
-                    <ui:SymbolIcon Symbol="DataHistogram24" />
+                    <ui:SymbolIcon Symbol="DataHistogram24"  FontSize="20"/>
                 </ui:NavigationViewItem.Icon>
             </ui:NavigationViewItem>
-            <ui:NavigationViewItem Content="Các loại hợp đồng" Click="NavigationViewItem_Selected" >
+            <ui:NavigationViewItem Content="Các loại hợp đồng" Click="NavigationViewItem_Selected" FontSize="20">
                 <ui:NavigationViewItem.Icon>
-                    <ui:SymbolIcon Symbol="List24" />
+                    <ui:SymbolIcon Symbol="List24"  FontSize="20"/>
                 </ui:NavigationViewItem.Icon>
             </ui:NavigationViewItem>
-            <ui:NavigationViewItem Content="Thống kê" Click="NavigationViewItem_Selected">
+            <ui:NavigationViewItem Content="Thống kê" Click="NavigationViewItem_Selected" FontSize="20">
                 <ui:NavigationViewItem.Icon>
-                    <ui:SymbolIcon Symbol="Book24" />
+                    <ui:SymbolIcon Symbol="Book24"  FontSize="20"/>
                 </ui:NavigationViewItem.Icon>
             </ui:NavigationViewItem>
-            <ui:NavigationViewItem Content="Người dùng" Click="NavigationViewItem_Selected">
+            <ui:NavigationViewItem Content="Người dùng" Click="NavigationViewItem_Selected" FontSize="20">
                 <ui:NavigationViewItem.Icon>
-                    <ui:SymbolIcon Symbol="Person24" />
+                    <ui:SymbolIcon Symbol="Person24" FontSize="20" />
                 </ui:NavigationViewItem.Icon>
             </ui:NavigationViewItem>
         </ui:NavigationView.MenuItems>
         <ui:NavigationView.FooterMenuItems>
-            <ui:NavigationViewItem Content="Cài đặt" >
+            <ui:NavigationViewItem Content="Cài đặt" FontSize="20">
                 <ui:NavigationViewItem.Icon>
-                    <ui:SymbolIcon Symbol="Settings24" />
+                    <ui:SymbolIcon Symbol="Settings24" FontSize="20"/>
                 </ui:NavigationViewItem.Icon>
             </ui:NavigationViewItem>
         </ui:NavigationView.FooterMenuItems>

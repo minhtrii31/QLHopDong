@@ -17,6 +17,15 @@ namespace QLHopDong.Views
         private void ButtonClose_Click(object sender, RoutedEventArgs e)
         {
             this.Close();
+
+            foreach (Window window in Application.Current.Windows)
+            {
+                if (window is BaseView)
+                {
+                    window.Close();
+                    break;
+                }
+            }
         }
 
         private void Window_Loaded(object sender, RoutedEventArgs e)

@@ -34,7 +34,6 @@ namespace QLHopDong
             var region = ContainerLocator.Container.Resolve<IRegionManager>();
             region.RegisterViewWithRegion<Sidebar>("SidebarRegion");
             region.RegisterViewWithRegion<Home>("ContentRegion");
-
         }
     }
 }
