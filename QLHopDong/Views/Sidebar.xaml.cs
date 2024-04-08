@@ -40,7 +40,6 @@ namespace QLHopDong.Views
                         regionManager.RequestNavigate("ContentRegion", "Users");
                         break;
                     default:
-                        // Xử lý trường hợp không xác định
                         break;
                 }
             }

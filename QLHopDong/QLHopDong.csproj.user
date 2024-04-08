@@ -7,16 +7,19 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="Views\BaoGia.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Views\BaseView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="Views\ContractPageView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Views\ContractType.xaml.cs">
+    <Compile Update="Views\Home.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Views\Home.xaml.cs">
+    <Compile Update="Views\HopDong.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="Views\Login.xaml.cs">
@@ -28,21 +31,27 @@
     <Compile Update="Views\Sidebar.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Views\ThuongThao.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Views\Users.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="Views\BaoGia.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Views\BaseView.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Views\ContractPageView.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Views\ContractType.xaml">
+    <Page Update="Views\Home.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Views\Home.xaml">
+    <Page Update="Views\HopDong.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Views\Login.xaml">
@@ -52,6 +61,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Views\Sidebar.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ThuongThao.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Views\Users.xaml">

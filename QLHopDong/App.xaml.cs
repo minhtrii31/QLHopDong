@@ -26,6 +26,8 @@ namespace QLHopDong
             containerRegistry.RegisterForNavigation<ContractType, ContractTypeViewModel>();
             containerRegistry.RegisterForNavigation<Report, ReportViewModel>();
             containerRegistry.RegisterForNavigation<Users, UsersViewModel>();
+            containerRegistry.RegisterForNavigation<ThuongThao, ThuongThaoViewModel>();
+            containerRegistry.RegisterForNavigation<HopDong, HopDongViewModel>();
         }
 
         protected override void OnInitialized()

@@ -10,5 +10,8 @@
 
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/images/close.png")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/images/logo_dark.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/templates/baogia.docx")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/templates/hopdong.docx")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/templates/thuongthao.docx")]
 
 

@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 D:\Intern\QLHopDong\QLHopDong\App.xaml
-8-1554008836
-2-542968694
-232131786376
-249-70211937
-Views\BaseView.xaml;Views\ContractPageView.xaml;Views\ContractType.xaml;Views\Home.xaml;Views\Login.xaml;Views\Report.xaml;Views\Sidebar.xaml;Views\Users.xaml;
+11-902348126
+541705162
+292039093675
+251-1373803017
+Views\BaoGia.xaml;Views\BaseView.xaml;Views\ContractPageView.xaml;Views\ContractType.xaml;Views\Home.xaml;Views\HopDong.xaml;Views\Login.xaml;Views\Report.xaml;Views\Sidebar.xaml;Views\ThuongThao.xaml;Views\Users.xaml;
 
 False
 
